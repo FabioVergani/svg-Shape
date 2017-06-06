@@ -1,0 +1,14 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css" >
+	svg{text-anchor:middle;font:0/0 sans-serif;user-select:none;fill:transparent}
+	text{font:500 20px Roboto,Verdana,sans-serif;fill:#8e9dad}
+	circle{stroke-width:1;stroke:#d8e1ec}
+	path{fill:#1a8eff}
+	#a{fill:#e6f1fb}
+	#b{fill:#fff}
+ </style>
+  <circle id="a" r="49" cy="50" cx="50"/>
+  <path d="m50,1a49,49 0 1 1 -42.94,72.61l42.94,-23.61l0,-49z"/>
+  <circle id="b" r="35" cy="50" cx="50"/>
+  <text y="58" x="50">67%</text>
+</svg>
